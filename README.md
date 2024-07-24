@@ -1,1 +1,1 @@
-# 2024-3b-voce-decide
+# 3B-VoceDecide-2024
