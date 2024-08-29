@@ -6,37 +6,37 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "Enunciado 01",
+        enunciado: "luana uma menina de 17 anos que foi abusada pelo padrasto e acabou engravidando se voce fosse luana o que voce faria? 
         alternativas: [
             {
-                texto:"alternativa 01",
-                afirmacao: "resultado 01"
+                texto:"seguiria a gravidez endesejada tendo que cuidar de algo que voce no quis ",
+                afirmacao: "luana seguiu sua gravidez"
             },
             {
-                texto:"alternativa 02",
-                afirmacao: "resultado 02"
+                texto:"optaria por um aborto seguro",
+                afirmacao: "luana conversou com sua mae sobre abortar "
             }   
         ]
     },
     {
-        enunciado: "Enunciado 02",
+        enunciado: "voce acha que luana e sua mae deviriam ir ate a clinica ?",
         alternativas: [
             {
-                texto: "alternativa 03",
-                afirmacao: "resultado03"
+                texto: "sim eu acho que deve ",
+                afirmacao: "luana e sua mae vao ate a clinica no meio do caminho elas pensam em desistir  "
             },
             {
-                texto: "alternativa 04",
-                afirmacao: "resultado 04"
+                texto: "nao elas nao devem ir ",
+                afirmacao: "elas nao vao,"
             }
         ]
     },
     {
-        enunciado: "Enunciado 03",
+        enunciado: "ana deve mesmo abortar",
         alternativas: [
             {
-                texto: "alternativa 05",
-                afirmacao: "resultado 05"
+                texto: "sim pois esa criança pode acabar com a vida dela ",
+                afirmacao: ""
             },
             {
                 texto: "alternativa 06",
